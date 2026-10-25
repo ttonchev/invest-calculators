@@ -1,0 +1,12 @@
+{
+  "name": "invest-calculators",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Six investing calculators (Bulgarian UI). Static site, no build step.",
+  "scripts": {
+    "test": "node --test",
+    "start": "npx serve ."
+  },
+  "engines": { "node": ">=20" }
+}
